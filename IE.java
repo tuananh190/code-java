@@ -1,4 +1,4 @@
-public class if-else {
+public class IE {
     public static void main(String[] args) {
         int number = 10;
 
